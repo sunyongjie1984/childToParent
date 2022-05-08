@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		131610BB2823B72A00634997 /* childToParent */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = childToParent; sourceTree = BUILT_PRODUCTS_DIR; };
 		131610BE2823B72A00634997 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		131610C52823B77300634997 /* CBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBase.h; sourceTree = "<group>"; };
+		131610C62823B77300634997 /* CDerive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDerive.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,8 @@
 		131610BD2823B72A00634997 /* childToParent */ = {
 			isa = PBXGroup;
 			children = (
+				131610C52823B77300634997 /* CBase.h */,
+				131610C62823B77300634997 /* CDerive.h */,
 				131610BE2823B72A00634997 /* main.cpp */,
 			);
 			path = childToParent;
